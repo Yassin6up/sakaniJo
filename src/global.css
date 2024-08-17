@@ -1,0 +1,17 @@
+/* scrollbar */
+@import 'simplebar-react/dist/simplebar.min.css';
+@import '~react-image-gallery/styles/css/image-gallery.css';
+
+.center-y {
+  display: inline-flex;
+  align-items: center;
+}
+
+.image-gallery-image {
+  height: 100%;
+  background-size: cover;
+}
+
+.rrr {
+  height: 100%;
+}
